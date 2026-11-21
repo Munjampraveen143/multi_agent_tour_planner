@@ -172,7 +172,7 @@ Contributions are always welcome!
 
 **Your Name**
 
-🌐 GitHub: [Your GitHub Profile](https://github.com/YOUR_USERNAME)
+🌐 GitHub: [Your GitHub Profile](https://github.com/Munjampraveen143)
 
 ---
 
