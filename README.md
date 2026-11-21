@@ -140,11 +140,6 @@ python main.py
 
 Add your project screenshots here.
 
-```markdown
-![Home Page](screenshots/home.png)
-![Travel Plan](screenshots/travel-plan.png)
-```
-
 ## 🎯 Project Goals
 
 - Simplify travel planning through artificial intelligence.
